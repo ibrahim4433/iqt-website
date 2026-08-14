@@ -1,0 +1,24 @@
+{
+  "url": "https://innoqtech.com/example-page",
+  "path": "/example-page",
+  "title": "Example Page",
+  "meta": {
+    "description": "",
+    "keywords": []
+  },
+  "sections": [
+    {
+      "heading": "Section title",
+      "text_blocks": [
+        "paragraph 1",
+        "paragraph 2"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ]
+}

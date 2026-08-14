@@ -1,0 +1,10 @@
+{
+  "path": "/sample",
+  "title": "Sample",
+  "layout_hint": "landing|list|detail|contact|legal",
+  "reused_components": [
+    "header",
+    "footer"
+  ],
+  "children": []
+}
