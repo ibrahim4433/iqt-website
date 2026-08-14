@@ -49,6 +49,11 @@
       "error": "No address associated with hostname"
     },
     {
+      "url": "https://innoqtech.com/_2026_new/innYH26/login",
+      "result": "failed",
+      "error": "No address associated with hostname"
+    },
+    {
       "url": "https://web.archive.org/web/*/innoqtech.com",
       "result": "failed",
       "error": "No address associated with hostname"

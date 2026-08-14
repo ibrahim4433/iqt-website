@@ -7,4 +7,5 @@ https://www.innoq.tech
 https://innoqtech.com/_2026_new/
 https://innoqtech.com/_2026_new/robots.txt
 https://innoqtech.com/_2026_new/sitemap.xml
+https://innoqtech.com/_2026_new/innYH26/login
 https://web.archive.org/web/*/innoqtech.com
