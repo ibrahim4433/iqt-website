@@ -29,3 +29,18 @@ Because of that, this distro includes:
 2. Fill `archive/content/pages.json` with page text/sections.
 3. Fill `archive/structure/site-tree.json` with complete page hierarchy.
 4. Place the new logo file in `assets/logo/` and update metadata.
+
+## Automated Linux workflow
+
+Run:
+
+```bash
+/home/runner/work/iqt-website/iqt-website/scripts/iqt-distro-tool.sh --url https://innoqtech.com --project-root /home/runner/work/iqt-website/iqt-website
+```
+
+The tool updates:
+- `archive/content/pages.json`
+- `archive/structure/site-tree.json`
+- `archive/metadata/fetch-report.json`
+- `source-links/targets.txt`
+- `archive/metadata/source-bundle.zip`
