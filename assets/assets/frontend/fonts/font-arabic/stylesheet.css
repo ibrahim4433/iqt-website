@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Frutiger LT Arabic 45';
+    src: url('FrutigerLTArabic-45Light.woff2') format('woff2'),
+        url('FrutigerLTArabic-45Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Arabic 45';
+    src: url('FrutigerLTArabic-65Bold.woff2') format('woff2'),
+        url('FrutigerLTArabic-65Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CRENZO';
+    src: url('CRENZORegular.woff2') format('woff2'),
+        url('CRENZORegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Arabic 55 Roman';
+    src: url('FrutigerLTArabic-55Roman.woff2') format('woff2'),
+        url('FrutigerLTArabic-55Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TheSans';
+    src: url('TheSans-Plain.woff2') format('woff2'),
+        url('TheSans-Plain.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Light.woff2') format('woff2'),
+        url('Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Black.woff2') format('woff2'),
+        url('Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE SS Two';
+    src: url('GESSTwoMedium-Medium.woff2') format('woff2'),
+        url('GESSTwoMedium-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE SS Two';
+    src: url('GESSTwoLight-Light.woff2') format('woff2'),
+        url('GESSTwoLight-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

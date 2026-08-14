@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <!-- ======= Meta & CSS ======= -->
+        <meta charset="utf-8">
+<title>رسالتنا</title>
+<meta name="description" content="نحول التحديات الرقمية إلى فرص نمو من خلال تقديم حلول تكنولوجية مبتكرة وعالية الجودة وشفافة. كشريك استراتيجي، نمكن المؤسسات من تحقيق تحول رقمي مستدام مع تعزيز ثقافة ا"/>
+<meta name="keywords" content="جودة، مبتكرة، إبتكار، تقنية"/>
+<meta name="author" content="https://www.innoqtech.com"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="../assets/frontend/vendor/fontawesome/css/all.min.css"  rel="stylesheet" media/>
+<link href="../assets/frontend/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet" media/>
+<link href="../assets/frontend/vendor/animate.css/animate.min.css" rel="stylesheet">
+<link href="../assets/frontend/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../assets/frontend/vendor/bootstrap-icons/bootstrap-icons.css" media rel="stylesheet"/>
+
+<link rel="stylesheet" href="../assets/frontend/vendor/glightbox/css/glightbox.min.css">
+<link rel="stylesheet" href="../assets/frontend/vendor/swiper/swiper-bundle.min.css">
+
+<link rel="stylesheet" href="../assets/frontend/vendor/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="../assets/frontend/vendor/owl-carousel/assets/owl.theme.default.min.css">
+<link href="https://cdn.jsdelivr.net/npm/splitting@1.1.0/dist/splitting.min.css" rel="stylesheet">
+<link href="../assets/frontend/css/style.css" rel="stylesheet"/>
+<link href="../assets/frontend/fonts/fonts/stylesheet.css" rel="stylesheet"/>
+<link href="../assets/frontend/css/custom.css?v=15" rel="stylesheet"/>
+
+
+<link href="../assets/frontend/css/rtl.css" rel="stylesheet"/>
+
+<!-- Favicon and Touch Icons -->
+    <link href="../uploads/settings/17458690562453.png" rel="shortcut icon"
+          type="image/png">
+    <link href="../uploads/settings/17458690564481.png" rel="apple-touch-icon">
+    <link href="../uploads/settings/17458690564481.png" rel="apple-touch-icon"
+          sizes="72x72">
+    <link href="../uploads/settings/17458690564481.png" rel="apple-touch-icon"
+          sizes="114x114">
+    <link href="../uploads/settings/17458690564481.png" rel="apple-touch-icon"
+          sizes="144x144">
+
+<meta property='og:title'
+      content='رسالتنا '/>
+    <meta property='og:image' content='https://www.innoqtech.com/uploads/topics/17444758054379.png'/>
+<meta property="og:site_name" content="شركة الجودة المبتكرة للتقنيات">
+<meta property="og:description" content="نحول التحديات الرقمية إلى فرص نمو من خلال تقديم حلول تكنولوجية مبتكرة وعالية الجودة وشفافة. كشريك استراتيجي، نمكن المؤسسات من تحقيق تحول رقمي مستدام مع تعزيز ثقافة ا"/>
+<meta property="og:url" content="https://www.innoqtech.com/ar/our-mission"/>
+<meta property="og:type" content="website"/>
+
+<link rel="canonical" href="our-mission">
+
+
+    <style>
+    a:hover, .site-top a, #topbar .contact-info i, #topbar .contact-info a:hover, #topbar .social-links a:hover, .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a, .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a, #footer .footer-bottom a, .sidebar-list .list-group .active, .sidebar-list .list-group a:hover, .contact .info i {
+        color: #185a79;
+    }
+
+    .navbar .active, .navbar .active:focus {
+        color: #185a79 !important;
+    }
+
+    #hero .carousel-item::before {
+        background-color: rgba(103,66,12,0.6);
+    }
+
+    a, #footer .footer-bottom a:hover, .section-title h2, .staff .member h4, .testimonials .testimonial-item h3 {
+        color: #f99f1e;
+    }
+
+    .read-more-link:hover, .card-title:hover {
+        color: #185a79 !important;
+    }
+
+    .btn-theme, #footer .footer-newsletter form button:hover, .back-to-top, .section-title h2::before, .section-title h2::after, .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+        background: #185a79;
+    }
+
+    .btn-primary {
+        background: #185a79;
+        border-color: #185a79;
+    }
+
+    .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+        background: #f99f1e !important;
+        border-color: #f99f1e !important;
+    }
+
+    .btn-theme:hover, #footer .footer-newsletter form button, .back-to-top:hover {
+        background: #f99f1e;
+    }
+
+    .section-bg {
+        background-color: #515c67;
+    }
+
+    #footer .footer-bottom, .breadcrumbs, pre, .fixed-area-menu::-webkit-scrollbar-track {
+        background-color: #515c67;
+    }
+
+    .fixed-area-menu::-webkit-scrollbar-thumb {
+        background-color: #185a79;
+    }
+
+    .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
+        color: #433333;
+    }
+
+    .testimonials .swiper-pagination .swiper-pagination-bullet {
+        border-color: #185a79;
+    }
+
+    .testimonials .swiper-pagination .swiper-pagination-bullet-active {
+        background-color: #185a79;
+    }
+
+    .btn-secondary, .bg-secondary {
+        background-color: #185a79  !important;
+        border-color: #185a79  !important;
+    }
+
+    .btn-secondary:hover {
+        background-color: #f99f1e  !important;
+        border-color: #f99f1e  !important;
+    }
+
+    .tooltip-inner {
+        background-color: #185a79;
+    }
+
+    .bs-tooltip-auto[data-popper-placement^=top] .tooltip-arrow::before, .bs-tooltip-top .tooltip-arrow::before {
+        border-top-color: #185a79;
+    }
+
+    .bs-tooltip-auto[data-popper-placement^=bottom] .tooltip-arrow::before, .bs-tooltip-top .tooltip-arrow::before {
+        border-bottom-color: #185a79;
+    }
+
+    .services .icon-box:hover {
+        background: #f99f1e !important;
+        border-color: #f99f1e !important;
+    }
+
+    .services .icon-box {
+        border-color: #185a79  !important;
+        background: #185a79  !important;
+    }
+
+    .services .icon-box .icon i, .services .icon-box:hover .icon i {
+        color: #185a79;
+    }
+
+    .bottom-article, .widget-title, .contact .info i {
+        background: #515c67;
+        border-color: #433333 !important;
+    }
+
+    .text-primary {
+        color: #185a79  !important;
+    }
+
+    .bg-primary {
+        background-color: #185a79 !important;
+        border-color: #185a79 !important;
+    }
+
+    .list-group-item, .card, .form-control, .card {
+        border-color: #433333;
+    }
+
+    .page-link {
+        color: #185a79 !important;
+    }
+
+    .active > .page-link, .page-link.active {
+        background-color: #185a79 !important;
+        border-color: #185a79 !important;
+    }
+
+    #preloader:before {
+        border-color: #185a79;
+        border-top-color: #433333;
+    }
+
+    #footer .footer-top .footer-links ul a:hover, #footer a:hover, #footer a:active {
+        color: #185a79;
+    }
+
+    .form-control:focus {
+        border-color: #433333;
+        box-shadow: 0 0 0 0.25rem#515c67;
+    }
+
+    .dropdown-item:focus, .dropdown-item:hover {
+        color: #185a79 !important;
+    }
+
+    .select2-container--default .select2-results__option--selected {
+        background-color: #515c67;
+    }
+
+    .select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+        background-color: #185a79;
+    }
+
+    .select2-container--default .select2-selection--multiple .select2-selection__choice {
+        background-color: #515c67 !important;
+    }
+
+    .bg-light {
+        background-color: #f99f1e !important;
+    }
+
+    .text-light {
+        color: #515c67 !important;
+    }
+
+    .text-light::placeholder {
+        color: #433333 !important;
+        opacity: 0.7;
+    }
+
+    .text-light::-ms-input-placeholder {
+        color: #433333 !important;
+        opacity: 0.7;
+    }
+
+    .accordion-item {
+        border-color: #433333 !important;
+    }
+
+    .accordion-item:last-of-type .accordion-button.collapsed {
+        background: #515c67 !important;
+    }
+
+    .accordion-button:not(.collapsed) {
+        color: #fff !important;
+        background-color: #185a79 !important;
+        box-shadow: none;
+    }
+
+    .no-data {
+        color: #f99f1e !important;
+    }
+
+    .btn.disabled, .btn:disabled, fieldset:disabled .btn {
+        color: #433333 !important;
+    }
+
+    .header-form-search .form-control {
+        background-color: #515c67 !important;
+    }
+
+    .home-page .testimonials, .home-page .gallery , .home-page .faq {
+        border-top: 1px solid #515c67 !important;
+    }
+
+    .staff .member span::after {
+        background: #185a79 !important;
+    }
+
+    .cookies-accept-box {
+        background-color: rgba(249,159,30,0.9);
+    }
+
+    .post-gallery {
+        background: #515c67 !important;
+    }
+
+    .line-frame {
+        border: 1px solid #433333 !important;
+    }
+
+    .gallery .gallery-item {
+        border: 3px solid #fff;
+    }
+
+    .staff .member {
+        background: #433333 !important;
+        box-shadow: none;
+    }
+
+    .staff .member .member-info .custom-field-value {
+        background: transparent !important;
+    }
+
+    .btn-outline-theme {
+        border: 1px solid #433333;
+        color: #185a79;
+    }
+
+    .btn-outline-theme:hover, .btn-outline-theme:active {
+        background: #433333;
+        border: 1px solid #433333;
+    }
+
+    #header-search-box {
+        background: #f99f1e;
+    }
+
+    #header-search-box input[type="search"]::placeholder {
+        color: #433333;
+    }
+
+    #header-search-box input[type="search"]::-ms-input-placeholder {
+        color: #433333;
+    }
+
+    #header-search-box .close {
+        background: #433333;
+        color: #185a79;
+    }
+
+    .appearance-toggle .checkbox-label .ball {
+        background-color: #433333;
+    }
+
+    .navbar a, .navbar a:focus {
+        color: #f99f1e;
+    }
+
+    #footer {
+        background-color: #f99f1e;
+    }
+    .modal-backdrop{
+        background-color: #f99f1e;
+    }
+
+    /* Dark Mode*/
+    .dark, .dark .header-bg, .dark .services .icon-box:hover .icon, .dark .staff, .dark #preloader, .dark .contact .info, .dark .contact .php-email-form {
+        background: #9B6312;
+        color: #fff;
+    }
+    .dark #preloader:before {
+        border-top-color: #9B6312;
+    }
+    .dark #header.header-scrolled {
+        background: #71480D;
+        box-shadow: 0 2px 10px rgba(255, 255, 255, .1) !important;
+    }
+
+    .dark #topbar.topbar-scrolled {
+        background: #9B6312;
+    }
+
+    .dark .section-bg, .dark .testimonials .testimonial-item {
+        background-color: #CF8419;
+    }
+
+    .dark .testimonials .testimonial-item .testimonial-img {
+        border: 6px solid #9B6312;
+    }
+
+    .dark .appearance-toggle .checkbox-label .ball {
+        background-color: #f99f1e;
+    }
+
+    .dark .header-scrolled .header-dropdown .btn, .dark .header-scrolled .navbar a {
+        color: #515c67;
+    }
+
+    .dark a, .dark #footer .footer-bottom a:hover, .dark .section-title h2, .dark .staff .member h4, .dark .testimonials .testimonial-item h3 {
+        color: #515c67;
+    }
+
+    .dark .btn-theme, .dark #footer .footer-newsletter form button {
+        background: #185a79;
+        color: #fff;
+        border: 1px solid #185a79 !important;
+    }
+
+    .dark #footer .footer-newsletter form button:hover {
+        background: #f99f1e;
+        color: #fff;
+    }
+
+    .dark .btn-theme:hover, .dark .back-to-top:hover {
+        background: #f99f1e;
+        color: #185a79;
+        border: 1px solid #185a79 !important;
+    }
+
+    .dark .contact .info h4 {
+        color: #515c67;
+    }
+
+    .dark .contact .info p {
+        color: #515c67;
+    }
+
+    .dark .navbar a, .dark .navbar a:focus, .dark .header-dropdown .btn {
+        color: #515c67;
+    }
+
+    .dark .breadcrumbs, .dark pre, .dark .fixed-area-menu::-webkit-scrollbar-track {
+        background-color: #67420C;
+    }
+
+    .dark #footer .footer-bottom {
+        background: #f99f1e;
+    }
+
+    .dark #footer .footer-bottom, .dark .section-border-top {
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .dark .widget-title, .dark .contact .info i {
+        background: #f99f1e;
+        border-color: #f99f1e !important;
+    }
+    .dark .bottom-article{
+        background: #9B6312;
+        border-color: #f99f1e !important;
+    }
+    .dark #footer .copyright, .dark .mobile-nav-toggle.bi-x, .dark #footer .credits {
+        color: #433333;
+    }
+
+    .dark #footer {
+        background-color: #67420C;
+    }
+
+    .dark .form-control,.dark .select2-container--default .select2-selection--multiple,.dark .select2-container--default .select2-selection--single,.dark .select2-dropdown,.dark .select2-search--dropdown .select2-search__field,.dark .iti--inline-dropdown .iti__dropdown-content,.dark .iti__search-input {
+        background: #f99f1e !important;
+        border-color: #f99f1e !important;
+        color: #fff !important;
+    }
+    .dark .select2-container--default .select2-selection--single .select2-selection__rendered,.dark .select2-container--default .select2-search--inline .select2-search__field{
+        color: #fff !important;
+    }
+
+    .dark .form-control:focus {
+        border-color: #f99f1e;
+        box-shadow: 0 0 0 0.25rem#185a79;
+    }
+
+    .dark .select2-container--default .select2-selection--multiple .select2-selection__choice,.dark .select2-container--default .select2-results__option--selected {
+        background-color: #9B6312 !important;
+    }
+
+    .dark #footer .footer-newsletter form {
+        background: #f99f1e;
+        border: 5px solid #f99f1e;
+    }
+
+    .dark #topbar {
+        box-shadow: 0 0 1px rgba(255, 255, 255, .4);
+    }
+
+    .dark .navbar .dropdown ul {
+        background-color: #8A5810;
+    }
+
+    .dark .navbar .dropdown ul a {
+        color: #fff;
+    }
+
+    .dark .dropdown-menu.show {
+        background-color: #8A5810;
+        border-color: rgba(255, 255, 255, .15);
+    }
+
+    .dark .accordion-item {
+        border-color: #f99f1e !important;
+        background: #f99f1e !important;
+        color: #fff;
+    }
+
+    .dark .accordion-item:last-of-type .accordion-button.collapsed {
+        background: #f99f1e !important;
+        color: #fff;
+    }
+
+    .dark .accordion-button:not(.collapsed) {
+        color: #fff !important;
+        background-color: #185a79 !important;
+        box-shadow: none;
+    }
+
+    .dark .accordion-button::after {
+        filter: brightness(0) invert(1);
+    }
+    .dark .card,.dark .form-control,.dark .card {
+        border-color: #f99f1e;
+    }
+    .dark .card{
+        background: #9B6312 !important;
+        color: #515c67;
+    }
+    .dark .list-group-item{
+        background: #9B6312 !important;
+        border-color: #f99f1e;
+    }
+    .dark .text-muted{
+        color: #433333 !important;
+    }
+    .dark .home-page .testimonials, .dark .home-page .gallery, .dark .home-page .faq {
+        border-top: 1px solid #f99f1e !important;
+    }
+    .dark .staff .member{
+        background-color: #f99f1e  !important;
+    }
+    .dark .gallery .gallery-item {
+        border-color: #9B6312;
+    }
+    .dark .services .icon-box:hover{
+        background: #67420C !important;
+        border-color: #185a79 !important;
+    }
+    .dark .mobile-nav-toggle{
+        color: #fff;
+    }
+    .dark .navbar-mobile ul{
+        background: #9B6312;
+    }
+    .dark .navbar-mobile > ul > li{
+        border-color: #f99f1e !important;
+    }
+    .dark .navbar-mobile .mobile-nav-toggle{
+        background: #f99f1e;
+        border: 1px solid #f99f1e;
+    }
+    .dark .page-popup .btn-close,.dark .iti__arrow{
+        filter: invert(1);
+    }
+
+    @media (max-width: 768px) {
+        .dark .navbar-mobile-bg {
+            background: #9B6312;
+        }
+    }
+</style>
+                    <style type="text/css">
+            .h2, h2 {
+    font-weight: bold;
+    color: #0E9DD9;
+}
+
+.topic-page article .article-body {
+    text-align: inherit;
+}
+
+.h3, h3 {
+/*        color: #EA3A3E; */
+        color: #0E9DD9;
+}
+        </style>
+        
+</head>
+
+<body class="dir-rtl lang-ar ">
+<!-- ======= Top Bar ======= -->
+
+
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top header-no-bg">
+    <div class="container d-flex align-items-center">
+        <a class="logo me-auto" href="../ar">
+                            <img alt="شركة الجودة المبتكرة للتقنيات"
+                     src="../uploads/settings/17458701928974.png"  class="img-fluid" width="230" height="50">
+                    </a>
+
+        <a class="logo me-auto logo-fixed" href="../ar">
+                            <img alt="شركة الجودة المبتكرة للتقنيات"
+                     src="../uploads/settings/17458701928974.png"  class="img-fluid" width="230" height="50">
+                    </a>
+
+        <nav id="navbar" class="navbar order-last order-lg-0">
+            <ul>
+                                    <li class=""><a
+                            class="nav-link "
+                            href="../ar" target="">
+                             الرئيسية
+                                                    </a>
+
+                                            </li>
+                                    <li class=""><a
+                            class="nav-link "
+                            href="about" target="">
+                             من نحن
+                                                    </a>
+
+                                            </li>
+                                    <li class="dropdown"><a
+                            class="nav-link "
+                            href="fintech-services" target="">
+                             الخدمات
+                                                            <i class="drop-arrow bi bi-chevron-down"></i>
+                                                    </a>
+
+                                                    <ul>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="fintech-services/core-financial-services"
+                                                                                        target=""> الخدمات المالية الأساسية
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="fintech-services/supporting-technologies-and-innovative-solutions"
+                                                                                        target=""> التقنيات الداعمة والحلول المبتكرة
+                                                                                    </a>
+                                                                            </li>
+                                                            </ul>
+                                            </li>
+                                    <li class="dropdown"><a
+                            class="nav-link "
+                            href="solutions" target="">
+                             الحلول
+                                                            <i class="drop-arrow bi bi-chevron-down"></i>
+                                                    </a>
+
+                                                    <ul>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/infrastructure-building-services"
+                                                                                        target=""> خدمات بناء البنية التحتية
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/data-center-solutions"
+                                                                                        target=""> حلول مراكز البيانات
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/sector-specific-solutions"
+                                                                                        target=""> حلول قطاعية محددة
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/enterprise-solutions"
+                                                                                        target=""> حلول المؤسسات
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/cybersecurity-solutions"
+                                                                                        target=""> حلول الأمن السيبراني
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/consultations-and-training"
+                                                                                        target=""> الاستشارات والتدريب
+                                                                                    </a>
+                                                                            </li>
+                                                                    <li class=""><a class="nav-link"
+                                                                                        href="solutions/grc"
+                                                                                        target=""> الحوكمة وإدارة المخاطر والامتثال (GRC)
+                                                                                    </a>
+                                                                            </li>
+                                                            </ul>
+                                            </li>
+                                    <li class=""><a
+                            class="nav-link "
+                            href="news" target="">
+                             الأخبار
+                                                    </a>
+
+                                            </li>
+                                    <li class=""><a
+                            class="nav-link "
+                            href="contact" target="">
+                             اتصل بنا
+                                                    </a>
+
+                                            </li>
+                                <li>
+                                            <a class="nav-link" href="../en" target="">English</a>
+                                    </li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+
+
+        
+
+        </div>
+</header>
+
+<!-- ======= Main contents ======= -->
+<main id="main" class="fixed-top-margin">
+        <div>
+                                            <section class="breadcrumbs d-flex justify-content-between align-items-end" style="background-image: url('../uploads/topics/nav-bg.png')">
+            <div class="container d-flex justify-content-between align-items-center scale-animate-zoom">
+                <div class="">
+                    
+                    <ol>
+                        <li><strong>أنت هنا:</strong></li>
+                        <li><a href="../ar">الرئيسية</a></li>
+                                                    <li class="active"><a
+                                    href="صفحات-الموقع">صفحات الموقع</a>
+                            </li>
+                                                                    </ol>
+                </div>
+            </div>
+        </section>
+
+        <section id="content">
+                            <div class="container topic-page">
+                    <div class="row">
+                       
+                        <div
+                            class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <article class="mb-5">
+                                                                    <div class="row">
+                                        <div class="col-lg-6 section-animation-2">
+                                            <div class="image  col-animate">
+                                                <img class="w-auto" loading="lazy"
+                                                    src="../uploads/topics/17444758054379.png" 
+                                                    alt="رسالتنا"/>
+                                            </div>
+                                        </div>
+                                                                                                                                        <div class="col-lg-6">
+                                            <div class="details section-animation-2">
+                                                                                                    <div class="post-heading col-animate section-title">
+                                                        <h1 id="target" >
+                                                                                                                        رسالتنا
+
+                                                        </h1>
+                                                    </div>
+                                                                                                <div class="article-body col-animate">
+                                                    <div dir="rtl">نحول التحديات الرقمية إلى فرص نمو من خلال تقديم حلول تكنولوجية مبتكرة وعالية الجودة وشفافة. كشريك استراتيجي، نمكن المؤسسات من تحقيق تحول رقمي مستدام مع تعزيز ثقافة الابتكار والتحسين المستمر.</div>
+                                                </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            </article>
+                            
+                            
+                            
+                            
+
+                            
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                    </section>
+    </div>
+    </main>
+<!-- ======= Footer ======= -->
+<footer id="footer" style='background-image: url(../uploads/settings/footer-bg.webp);background-color: #f99f1e;'>
+            <div class="footer-top position-relative overflow-hidden">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="footer-image text-center">
+                                                            <img src="../uploads/settings/17496739417542.png" alt="footer logo">
+                                                    </div>
+                        <div class="social-links text-center text-md-right pt-3 pt-md-0">
+            <a href="https://www.facebook.com/profile.php?id=61583519488569" data-bs-toggle="tooltip" title="Facebook" data-bs-placement="top"
+           target="_blank" class="social-facebook"><i
+                class="bi bi-facebook"></i></a>
+                <a href="https://x.com/innovative_iqt?s=21&amp;t=gOG1r-x2uWlyR7LH8sj3ig" data-bs-toggle="tooltip" title="Twitter" data-bs-placement="top"
+           target="_blank" class="social-x"><i
+                class="bi bi-twitter-x"></i></a>
+                <a href="https://sa.linkedin.com/in/innovative-quality-technologies-company-1999aa378/en" data-bs-toggle="tooltip" title="linkedin" data-bs-placement="top"
+           target="_blank" class="social-linkedin"><i
+                class="bi bi-linkedin"></i></a>
+                    <a href="our-mission#" data-bs-toggle="tooltip" title="Instagram" data-bs-placement="top"
+           target="_blank" class="social-instagram"><i
+                class="bi bi-instagram"></i></a>
+                </div>
+                    </div>
+                                                                                                                                <!--<div class="col-6 col-lg-2 col-md-2 footer-links">-->
+                                <div class="col footer-links">
+                                    <div class="footer-title">
+                                        <h1>الاقسام</h1>
+                                    </div>
+                                                                            <ul>
+                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="about"
+                                                       target=""> من نحن
+                                                    </a>
+                                                </li>
+                                                                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="fintech-services"
+                                                       target=""> الخدمات
+                                                    </a>
+                                                </li>
+                                                                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="solutions"
+                                                       target=""> الحلول
+                                                    </a>
+                                                </li>
+                                                                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="contact"
+                                                       target=""> إتصل بنا
+                                                    </a>
+                                                </li>
+                                                                                                                                    </ul>
+                                                                    </div>
+                                                                                            <!--<div class="col-6 col-lg-2 col-md-2 footer-links">-->
+                                <div class="col footer-links">
+                                    <div class="footer-title">
+                                        <h1>الشركة</h1>
+                                    </div>
+                                                                            <ul>
+                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="challenges-and-confrontation-plans"
+                                                       target=""> التحديات وخطط المواجهة
+                                                    </a>
+                                                </li>
+                                                                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="استراتيجيات-تعزيز-العلاقات"
+                                                       target=""> استراتيجيات تعزيز العلاقات
+                                                    </a>
+                                                </li>
+                                                                                                                                            <li>
+                                                                                                            <i class="bi bi-arrow-left-circle-fill"></i>
+                                                                                                        <a class="nav-link" href="خبرة-مجلس-الإدارة"
+                                                       target=""> خبرة مجلس الإدارة
+                                                    </a>
+                                                </li>
+                                                                                                                                    </ul>
+                                                                    </div>
+                                                                                                                            
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        
+                        <div class="text-center mt-3">
+                            <div class="copyright">
+                                                                جميع الحقوق محفوظة &copy; 2026 شركة الجودة المبتكرة للتقنيات
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <!--
+            <div class="lines">
+                <div class="line line-1 position-absolute top-0 h-100"></div>
+                <div class="line line-2 position-absolute top-0 h-100"></div>
+                <div class="line-alt line-alt-1 position-absolute top-0 h-100"></div>
+                <div class="line-alt line-alt-2 position-absolute top-0 h-100"></div>
+                <div class="line line-3 position-absolute top-0 h-100"></div>
+            </div>
+            -->
+        </div>
+    </footer>
+    <a href="https://wa.me/+966509167015" class="whatsapp_float" target="_blank"  aria-label="Whatsapp"
+       rel="noopener noreferrer">
+        <i class="fa fa-whatsapp"></i>
+    </a>
+<!-- ======= JS Including ======= -->
+<a href="our-mission#" title="إلى الأعلى" class="back-to-top d-flex align-items-center justify-content-center" aria-label="Go to Top"><i
+        class="bi bi-arrow-up-short"></i></a>
+
+<script type="text/javascript">
+    var page_dir = "rtl";
+</script>
+<!-- Vendor JS Files -->
+<script src="../assets/frontend/js/jquery.min.js"></script>
+<script
+    src="../assets/frontend/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script
+    src="../assets/frontend/vendor/glightbox/js/glightbox.min.js"></script>
+<script
+    src="../assets/frontend/vendor/swiper/swiper-bundle.min.js"></script>
+<script
+    src="../assets/frontend/vendor/owl-carousel/owl.carousel.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/splitting@1.1.0/dist/splitting.min.js"></script>
+
+<script src="../assets/frontend/js/scroll-out.min.js"></script>
+
+<!-- Template Main JS File -->
+<script src="../assets/frontend/js/main.js"></script>
+
+
+
+
+
+
+<script>
+    window.addEventListener("scroll", (event)=>{
+        var windowHeight = window.innerHeight;
+        var elementVisible = 0;
+        var sectionAnimation = document.querySelectorAll('.section-animation');
+    });
+    var bannersCol = document.querySelectorAll('.text-banner .col-animate');
+    animatedCol(bannersCol)
+    var solutionsCol = document.querySelectorAll('.solutions .col-animate');
+    animatedCol(solutionsCol)
+
+    function animatedCol(col, dalay = .3){
+        var count = dalay;
+        col.forEach((item) => {
+            item.style.transitionDelay = count + 's';
+            count += .3;
+        })
+    }
+
+    var _window = window,Splitting = _window.Splitting,ScrollOut = _window.ScrollOut;
+    Splitting();
+    ScrollOut({  
+        targets: ".section-title",
+        threshold:0.5,
+        once: false
+    });
+
+    ScrollOut({  
+        targets: ".btn-theme-4",
+        threshold:0.5,
+        once: false
+    });
+
+    ScrollOut({  
+        targets: ".col-animate",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".left-animate",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".section-animation",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("active");
+        }
+    });
+    ScrollOut({  
+        targets: ".section-animation-2",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("active");
+        }
+    });
+    ScrollOut({  
+        targets: ".image-animate-scale",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".page-animate",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".ui-resizable",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".ui-resizable h2",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+    ScrollOut({  
+        targets: ".swiper-slide-animate",
+        threshold:0.5,
+        onShown(el) {
+            el.classList.add("animated");
+        }
+    });
+
+    ScrollOut({  
+        targets: ".scale-animate-zoom",
+        threshold:0.5,
+        once: false
+    });
+
+
+    var swiper = new Swiper(".services-swiper", {
+        slidesPerView: 1,
+        spaceBetween: 20,
+        center: true,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        breakpoints: {
+            640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+            center:false,
+            },
+            768: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+            },
+            1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+            },
+        },
+    });
+
+    var swiper = new Swiper(".row4-swiper", {
+        slidesPerView: 1,
+        spaceBetween: 50,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+    });
+    var swiper = new Swiper(".row6-slider", {
+        slidesPerView: 1.20,
+        spaceBetween: 20,
+        breakpoints: {
+            640: {
+            slidesPerView: 1.20,
+            spaceBetween: 20,
+            },
+            768: {
+            slidesPerView: 1.90,
+            spaceBetween: 30,
+            },
+            1024: {
+            slidesPerView: 2.50,
+            spaceBetween: 30,
+            },
+        },
+    });
+</script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2b2f423dfd9281b',t:'MTc4Njc0MTkwMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
