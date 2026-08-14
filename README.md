@@ -3,15 +3,12 @@
 This distro is prepared to support creating new sample designs using:
 - the same source content from the current innoqtech.com website
 - the same page/subpage structure
-- a future new logo (to be added later)
+- a future new logo (in the \assets\logo folder)
+- new full html sample designs using the new logo and same content but new layouts and new colors and styles..
 
-## Current status
-
-Network access to `innoqtech.com` was attempted from this environment, but DNS resolution failed.
-Because of that, this distro includes:
+## this distro includes:
 - a ready folder structure
 - machine-readable archive files/schemas
-- fetch attempt logs and source targets
 - starter templates for content/tree reuse
 
 ## Folders
@@ -19,28 +16,6 @@ Because of that, this distro includes:
 - `archive/content/` — extracted page text/content records
 - `archive/structure/` — page tree and layout structure records
 - `archive/metadata/` — crawl metadata and extraction status
-- `assets/logo/` — placeholder for the upcoming new logo
+- `assets/logo/` —   the upcoming new logo
 - `templates/` — starter template files for new design prep
-- `source-links/` — source URLs to retry when network is available
-
-## Next step (when network is available)
-
-1. Re-fetch the URLs in `source-links/targets.txt` (including `https://innoqtech.com/_2026_new/` paths).
-2. Fill `archive/content/pages.json` with page text/sections.
-3. Fill `archive/structure/site-tree.json` with complete page hierarchy.
-4. Place the new logo file in `assets/logo/` and update metadata.
-
-## Automated Linux workflow
-
-Run:
-
-```bash
-/home/runner/work/iqt-website/iqt-website/scripts/iqt-distro-tool.sh --url https://innoqtech.com --project-root /home/runner/work/iqt-website/iqt-website
-```
-
-The tool updates:
-- `archive/content/pages.json`
-- `archive/structure/site-tree.json`
-- `archive/metadata/fetch-report.json`
-- `source-links/targets.txt`
-- `archive/metadata/source-bundle.zip`
+- `source-links/` — source URLs

@@ -3,6 +3,3 @@ https://innoqtech.com/robots.txt
 https://innoqtech.com/sitemap.xml
 https://www.innoqtech.com
 https://innoqtech.com/_2026_new/
-https://innoqtech.com/_2026_new/robots.txt
-https://innoqtech.com/_2026_new/sitemap.xml
-https://innoqtech.com/_2026_new/innYH26/login
