@@ -1,66 +1,17 @@
 {
   "site": "innoqtech.com",
-  "generated_at": "2026-08-14T19:32:31.503+00:00",
-  "status": "blocked",
+  "generated_at": "2026-08-14T20:30:41.132010Z",
+  "status": "failed_or_partial",
+  "method": "wget",
   "attempts": [
     {
       "url": "https://innoqtech.com",
       "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/sitemap.xml",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/robots.txt",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://www.innoqtech.com",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoq.tech",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://www.innoq.tech",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/_2026_new/",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/_2026_new/sitemap.xml",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/_2026_new/robots.txt",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://innoqtech.com/_2026_new/innYH26/login",
-      "result": "failed",
-      "error": "No address associated with hostname"
-    },
-    {
-      "url": "https://web.archive.org/web/*/innoqtech.com",
-      "result": "failed",
-      "error": "No address associated with hostname"
+      "error": "60-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/ar/news.html... 62. 62-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/big-data-analytics-and-artificial-intelligence-(ai).html... 61. 61-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/solutions/grc.html... 59. 59-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/insurance-technology-(insurtech).html... 62. 62-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/open-banking.html... 62. 62-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/ar/\u0627\u0644\u0642\u064a\u0645-\u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.html... 61. 61-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/fintech-services/core-financial-services.html... 66. 66-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions.html... 70. 70-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/owl-carousel/assets/owl.theme.default.min.css... nothing to do. Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/bootstrap/css/bootstrap.min.css... nothing to do. Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/animate.css/animate.min.css... nothing to do. Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/fontawesome/css/font-awesome.min.css... 6. 6-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/glightbox/css/glightbox.min.css... nothing to do. Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/swiper/swiper-bundle.min.css... nothing to do. Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/fonts/font-arabic/stylesheet.css... 20. 20-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/css/custom.css?v=15.css... 2. 2-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/owl-carousel/assets/owl.carousel.min.css... 1. 1-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/fonts/fonts/stylesheet.css... 30. 30-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/css/rtl.css... 1. 1-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/bootstrap-icons/bootstrap-icons.css... 2. 2-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/vendor/fontawesome/css/all.min.css... 20. 20-0 Converting links in /tmp/iqt-distro-tool/20260814T202829Z/crawl/innoqtech.com/assets/frontend/css/style.css... nothing to do. Converted links in 91 files in 0.05 seconds. "
     }
   ],
-  "notes": [
-    "This distro structure is ready to be populated once source access is available.",
-    "Do not treat inferred pages as confirmed until direct source extraction succeeds."
-  ]
+  "stats": {
+    "html_files": 77,
+    "pages_extracted": 77
+  }
 }

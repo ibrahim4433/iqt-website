@@ -1,10 +1,410 @@
 {
   "site": "innoqtech.com",
-  "captured_at": null,
-  "source_status": "pending_source_access",
+  "captured_at": "2026-08-14T20:30:41.126013Z",
+  "source_status": "partial_or_failed",
   "tree": {
     "path": "/",
     "title": "Home",
-    "children": []
+    "children": [
+      {
+        "path": "/innoqtech.com",
+        "title": "Innoqtech.Com",
+        "children": [
+          {
+            "path": "/innoqtech.com/about",
+            "title": "About",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/ar",
+            "title": "Ar",
+            "children": [
+              {
+                "path": "/innoqtech.com/ar/about",
+                "title": "About",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/challenges-and-confrontation-plans",
+                "title": "Challenges And Confrontation Plans",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/ar/challenges-and-confrontation-plans/\u0627\u0644\u062a\u062d\u062f\u064a-\u0627\u0644\u0623\u0645\u0646\u064a",
+                    "title": "\u0627\u0644\u062a\u062d\u062f\u064a \u0627\u0644\u0623\u0645\u0646\u064a",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/challenges-and-confrontation-plans/\u0627\u0644\u062a\u062d\u062f\u064a-\u0627\u0644\u062a\u0642\u0646\u064a",
+                    "title": "\u0627\u0644\u062a\u062d\u062f\u064a \u0627\u0644\u062a\u0642\u0646\u064a",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/challenges-and-confrontation-plans/\u0627\u0644\u062a\u062d\u062f\u064a-\u0627\u0644\u062a\u0646\u0627\u0641\u0633\u064a",
+                    "title": "\u0627\u0644\u062a\u062d\u062f\u064a \u0627\u0644\u062a\u0646\u0627\u0641\u0633\u064a",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/challenges-and-confrontation-plans/\u062a\u062d\u062f\u064a-\u0628\u0646\u0627\u0621-\u0627\u0644\u062b\u0642\u0629",
+                    "title": "\u062a\u062d\u062f\u064a \u0628\u0646\u0627\u0621 \u0627\u0644\u062b\u0642\u0629",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "path": "/innoqtech.com/ar/contact",
+                "title": "Contact",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/fintech-services",
+                "title": "Fintech Services",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/ar/fintech-services/core-financial-services",
+                    "title": "Core Financial Services",
+                    "children": [
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/core-financial-services/digital-payments-and-transaction-processing",
+                        "title": "Digital Payments And Transaction Processing",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/core-financial-services/lending-and-financing",
+                        "title": "Lending And Financing",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/core-financial-services/wealth-management-and-investment",
+                        "title": "Wealth Management And Investment",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions",
+                    "title": "Supporting Technologies And Innovative Solutions",
+                    "children": [
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/big-data-analytics-and-artificial-intelligence-(ai)",
+                        "title": "Big Data Analytics And Artificial Intelligence (Ai)",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/blockchain-technology",
+                        "title": "Blockchain Technology",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/insurance-technology-(insurtech)",
+                        "title": "Insurance Technology (Insurtech)",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/open-banking",
+                        "title": "Open Banking",
+                        "children": []
+                      },
+                      {
+                        "path": "/innoqtech.com/ar/fintech-services/supporting-technologies-and-innovative-solutions/regulatory-technology-(regtech)",
+                        "title": "Regulatory Technology (Regtech)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "path": "/innoqtech.com/ar/home",
+                "title": "Home",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/news",
+                "title": "News",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/ar/news/innovation-quality-technologies-partners-with-holm-security",
+                    "title": "Innovation Quality Technologies Partners With Holm Security",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "path": "/innoqtech.com/ar/our-goals",
+                "title": "Our Goals",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/our-mission",
+                "title": "Our Mission",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/our-vision",
+                "title": "Our Vision",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/solutions",
+                "title": "Solutions",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/ar/solutions/consultations-and-training",
+                    "title": "Consultations And Training",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/cybersecurity-solutions",
+                    "title": "Cybersecurity Solutions",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/data-center-solutions",
+                    "title": "Data Center Solutions",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/enterprise-solutions",
+                    "title": "Enterprise Solutions",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/grc",
+                    "title": "Grc",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/infrastructure-building-services",
+                    "title": "Infrastructure Building Services",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/ar/solutions/sector-specific-solutions",
+                    "title": "Sector Specific Solutions",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "path": "/innoqtech.com/ar/\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a-\u062a\u0639\u0632\u064a\u0632-\u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a",
+                "title": "\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/\u0627\u0644\u0641\u0626\u0629-\u0627\u0644\u0645\u0633\u062a\u0647\u062f\u0641\u0629",
+                "title": "\u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0645\u0633\u062a\u0647\u062f\u0641\u0629",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/\u0627\u0644\u0642\u064a\u0645-\u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629",
+                "title": "\u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/\u062e\u0628\u0631\u0629-\u0645\u062c\u0644\u0633-\u0627\u0644\u0625\u062f\u0627\u0631\u0629",
+                "title": "\u062e\u0628\u0631\u0629 \u0645\u062c\u0644\u0633 \u0627\u0644\u0625\u062f\u0627\u0631\u0629",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/ar/\u0635\u0641\u062d\u0627\u062a-\u0627\u0644\u0645\u0648\u0642\u0639",
+                "title": "\u0635\u0641\u062d\u0627\u062a \u0627\u0644\u0645\u0648\u0642\u0639",
+                "children": []
+              }
+            ]
+          },
+          {
+            "path": "/innoqtech.com/board-management-experience",
+            "title": "Board Management Experience",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/challenges-and-confrontation-plans",
+            "title": "Challenges And Confrontation Plans",
+            "children": [
+              {
+                "path": "/innoqtech.com/challenges-and-confrontation-plans/competitive-challenge",
+                "title": "Competitive Challenge",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/challenges-and-confrontation-plans/security-challenge",
+                "title": "Security Challenge",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/challenges-and-confrontation-plans/technical-challenge",
+                "title": "Technical Challenge",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/challenges-and-confrontation-plans/trust-building-challenge",
+                "title": "Trust Building Challenge",
+                "children": []
+              }
+            ]
+          },
+          {
+            "path": "/innoqtech.com/contact",
+            "title": "Contact",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/core-values",
+            "title": "Core Values",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/en",
+            "title": "En",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/fintech-services",
+            "title": "Fintech Services",
+            "children": [
+              {
+                "path": "/innoqtech.com/fintech-services/core-financial-services",
+                "title": "Core Financial Services",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/fintech-services/core-financial-services/digital-payments-and-transaction-processing",
+                    "title": "Digital Payments And Transaction Processing",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/core-financial-services/lending-and-financing",
+                    "title": "Lending And Financing",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/core-financial-services/wealth-management-and-investment",
+                    "title": "Wealth Management And Investment",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions",
+                "title": "Supporting Technologies And Innovative Solutions",
+                "children": [
+                  {
+                    "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/big-data-analytics-and-artificial-intelligence-(ai)",
+                    "title": "Big Data Analytics And Artificial Intelligence (Ai)",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/blockchain-technology",
+                    "title": "Blockchain Technology",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/insurance-technology-(insurtech)",
+                    "title": "Insurance Technology (Insurtech)",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/open-banking",
+                    "title": "Open Banking",
+                    "children": []
+                  },
+                  {
+                    "path": "/innoqtech.com/fintech-services/supporting-technologies-and-innovative-solutions/regulatory-technology-(regtech)",
+                    "title": "Regulatory Technology (Regtech)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "path": "/innoqtech.com/home",
+            "title": "Home",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/news",
+            "title": "News",
+            "children": [
+              {
+                "path": "/innoqtech.com/news/innovation-quality-technologies-partners-with-holm-security",
+                "title": "Innovation Quality Technologies Partners With Holm Security",
+                "children": []
+              }
+            ]
+          },
+          {
+            "path": "/innoqtech.com/our-goals",
+            "title": "Our Goals",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/our-mission",
+            "title": "Our Mission",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/our-vision",
+            "title": "Our Vision",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/relationship-enhancement-strategies",
+            "title": "Relationship Enhancement Strategies",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/site-pages",
+            "title": "Site Pages",
+            "children": []
+          },
+          {
+            "path": "/innoqtech.com/solutions",
+            "title": "Solutions",
+            "children": [
+              {
+                "path": "/innoqtech.com/solutions/consultations-and-training",
+                "title": "Consultations And Training",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/cybersecurity-solutions",
+                "title": "Cybersecurity Solutions",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/data-center-solutions",
+                "title": "Data Center Solutions",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/enterprise-solutions",
+                "title": "Enterprise Solutions",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/grc",
+                "title": "Grc",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/infrastructure-building-services",
+                "title": "Infrastructure Building Services",
+                "children": []
+              },
+              {
+                "path": "/innoqtech.com/solutions/sector-specific-solutions",
+                "title": "Sector Specific Solutions",
+                "children": []
+              }
+            ]
+          },
+          {
+            "path": "/innoqtech.com/target-audience",
+            "title": "Target Audience",
+            "children": []
+          }
+        ]
+      }
+    ]
   }
 }
