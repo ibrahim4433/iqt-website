@@ -1,5 +1,26 @@
 {
-  "status": "waiting_for_new_logo",
-  "files": [],
-  "notes": "Add the new logo files to distro/assets/logo and update this metadata."
+  "status": "logo_files_added",
+  "files": [
+    {
+      "filename": "logo-primary.svg",
+      "source": "Logo-draft-folder/svg/logo-06.svg",
+      "intended_usage": "Primary full-color horizontal logo for header and main brand placements."
+    },
+    {
+      "filename": "logo-mark.svg",
+      "source": "Logo-draft-folder/svg/logo-02.svg",
+      "intended_usage": "Standalone full-color logo mark for favicon, icon, and compact placements."
+    },
+    {
+      "filename": "logo-dark.svg",
+      "source": "Logo-draft-folder/svg/logo-09.svg",
+      "intended_usage": "Single-color dark logo for light backgrounds."
+    },
+    {
+      "filename": "logo-light.svg",
+      "source": "Logo-draft-folder/svg/logo-07.svg",
+      "intended_usage": "Single-color light logo for dark backgrounds."
+    }
+  ],
+  "notes": "Logo SVG files were added to distro/assets/logo and mapped from Logo-draft-folder."
 }
