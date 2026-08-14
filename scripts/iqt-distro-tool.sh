@@ -26,8 +26,8 @@ USAGE
 log() { printf '[iqt-distro-tool] %s\n' "$*"; }
 err() { printf '[iqt-distro-tool][error] %s\n' "$*" >&2; }
 
-URL=""
-PROJECT_ROOT="$(pwd)"
+URL="www.innoqtech.com"
+PROJECT_ROOT="/mnt/c/Documents and Settings/ibrah/Documents/GitHub/iqt-website/"
 WORKDIR="/tmp/iqt-distro-tool"
 METHOD="auto"
 DRY_RUN="false"
@@ -70,7 +70,7 @@ RUN_DIR="$WORKDIR/$RUN_ID"
 CRAWL_DIR="$RUN_DIR/crawl"
 mkdir -p "$CRAWL_DIR"
 
-DISTRO_DIR="$PROJECT_ROOT/distro"
+DISTRO_DIR="$PROJECT_ROOT"
 CONTENT_FILE="$DISTRO_DIR/archive/content/pages.json"
 TREE_FILE="$DISTRO_DIR/archive/structure/site-tree.json"
 META_FILE="$DISTRO_DIR/archive/metadata/fetch-report.json"
